@@ -9,7 +9,7 @@ Make sure to have Java downloaded and a CLI
 ### Running the program
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/SirKentut/CSC413_TaskManager.git
    ```
 2. Compile the Java files using the javac command
 * javac
