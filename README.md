@@ -1,4 +1,4 @@
-#CLI Task Manager
+## CLI Task Manager
 Simple CLI Task Manager application written in Java for my CSC 413 Software Development Course at San Francisco State University
 
 
